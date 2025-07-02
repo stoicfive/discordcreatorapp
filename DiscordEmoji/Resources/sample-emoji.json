@@ -1,0 +1,8 @@
+// TODO: Add sample emoji JSON fixture
+[
+    {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": "smile",
+        "unicode": "😄"
+    }
+]
